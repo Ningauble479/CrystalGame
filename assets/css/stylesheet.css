@@ -1,0 +1,27 @@
+body {
+    background-color: green
+}
+
+#mainbody {
+    background-color: beige;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 700px;
+    margin-bottom: -700px;
+    padding-bottom: -700px;
+    word-wrap: break-word
+
+}
+
+.pictures {
+    width:100px
+}
+
+.pl {
+    padding-left: 20px;
+}
+
+.pt {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
